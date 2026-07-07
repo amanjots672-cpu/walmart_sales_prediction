@@ -155,7 +155,7 @@ scikit-learn
 
 ## 👤 Author
 
-**Gurkirat Bains**
+**Amanjot Singh Bajwa**
 
 - Aspiring Data Analyst & Machine Learning Enthusiast
 - Passionate about Data Analytics, Power BI, Excel, SQL, and Python
